@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: 八一十九
+subtitle: 'Time Is Money'
+description: 八一十九，专注于AI、大模型应用、时序分析
+keywords: AI,算法,大模型,RAG,Agent,时序分析,深度学习
+author: 八一十九
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://bayes.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
