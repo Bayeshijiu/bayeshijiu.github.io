@@ -6,8 +6,9 @@
 menu:
   首页: / || fas fa-home
   归档: /archives/ || fas fa-archive
-  关于我: /about/ || fas fa-user
+  说说: /shuoshuo/ || fas fa-comment-dots
   标签: /tags/ || fas fa-tags
+  关于我: /about/ || fas fa-user
 
 # --------------------------------------
 # 社交链接
@@ -259,9 +260,9 @@ search:
 # 访问量统计
 # --------------------------------------
 busuanzi:
-  site_uv: false
-  site_pv: false
-  page_pv: false
+  site_uv: true
+  site_pv: true
+  page_pv: true
 
 # --------------------------------------
 # 复制设置
