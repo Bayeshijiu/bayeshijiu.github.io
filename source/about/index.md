@@ -2,6 +2,7 @@
 title: 关于我
 date: 2026-01-01 00:00:00
 type: "about"
+comments: false
 ---
 
 > AI算法工程师 | 大模型应用 × 时序分析 × 智能运维 

@@ -8,6 +8,7 @@ menu:
   归档: /archives/ || fas fa-archive
   说说: /shuoshuo/ || fas fa-comment-dots
   标签: /tags/ || fas fa-tags
+  留言板: /message/ || fas fa-envelope-open-text
   关于我: /about/ || fas fa-user
 
 # --------------------------------------
