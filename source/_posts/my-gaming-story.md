@@ -3,7 +3,6 @@ title: 那些年，我玩过的游戏
 date: 2026-05-30 23:00:00
 tags: [游戏, 随笔]
 categories: 生活
-cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/cover/8.jpg
 ---
 
 我不是硬核玩家，没有满墙的收藏，也没有冲过什么排行榜。但回头看，游戏确实陪我走了很长一段路。

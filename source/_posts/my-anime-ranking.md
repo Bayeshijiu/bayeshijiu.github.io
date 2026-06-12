@@ -3,7 +3,6 @@ title: 讲讲动漫
 date: 2026-05-30 22:00:00
 tags: [动漫, 随笔]
 categories: 生活
-cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/cover/5.jpg
 ---
 
 每个人心里都有一份自己的动漫排名，不用跟谁争，也争不出结果。今天聊聊我的。

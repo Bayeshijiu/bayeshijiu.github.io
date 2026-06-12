@@ -3,7 +3,6 @@ title: 2019年年度总结
 date: 2019-12-31 23:00:00
 tags: [年度总结, 随笔]
 categories: 生活
-cover: https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/cover/7.jpg
 ---
 
 每个人最重要的时期其实就只有几个。这算一个。

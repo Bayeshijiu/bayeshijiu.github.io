@@ -11,14 +11,13 @@ comments: true
 
 ---
 
-{% folding green, 留言小贴士 📌 %}
-
+{% note success modern %}
+**留言小贴士：**
 - 支持Markdown语法
 - 昵称和邮箱为必填项，邮箱不会公开显示
 - 第一次留言会经过审核，之后自动通过
 - 评论有回复时会邮件通知你
-
-{% endfolding %}
+{% endnote %}
 
 ---
 
