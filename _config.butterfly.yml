@@ -274,6 +274,24 @@ copy:
     limit_count: 150
 
 # --------------------------------------
+# 评论系统
+# --------------------------------------
+comments:
+  use: waline
+  lazyload: true
+  count: true
+  card_post_count: false
+
+waline:
+  serverURL: https://comment.bayesly.me
+  lang: zh-CN
+  locale:
+    placeholder: 欢迎留言...
+  emoji: true
+  requiredMeta: ['nick', 'mail']
+  pageSize: 10
+
+# --------------------------------------
 # 分类/标签页UI
 # --------------------------------------
 category_ui: index
