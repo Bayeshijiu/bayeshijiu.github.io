@@ -24,8 +24,8 @@ social:
 # --------------------------------------
 favicon: /img/favicon.png
 avatar:
-  img: /img/butterfly-icon.png
-  effect: true
+  img: /img/wukong.jpg
+  effect: false
 
 disable_top_img: false
 
@@ -133,7 +133,13 @@ aside:
       link: https://github.com/
   card_announcement:
     enable: true
-    content: 欢迎来到我的博客！这里记录我的技术探索与成长历程。
+    title: 最近动态
+    content: |
+      <ul style="list-style:none;padding:0;margin:0;line-height:1.8;">
+        <li>🎉 博客上线，欢迎交流</li>
+        <li>📝 新增文章：讲讲动漫</li>
+        <li>📝 新增文章：那些年，我玩过的游戏</li>
+      </ul>
   card_recent_post:
     enable: true
     limit: 5
