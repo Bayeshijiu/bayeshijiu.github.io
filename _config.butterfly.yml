@@ -307,3 +307,12 @@ error_404:
   enable: true
   subtitle: '页面未找到'
   background: /img/error-page.png
+
+# --------------------------------------
+# 注入代码
+# --------------------------------------
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/shuoshuo-sidebar.css">
+  bottom:
+    - <script src="/js/shuoshuo-sidebar.js"></script>

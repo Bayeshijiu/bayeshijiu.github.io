@@ -1,0 +1,65 @@
+.card-widget.card-shuoshuo {
+  overflow: hidden;
+}
+
+.card-widget.card-shuoshuo .item-headline {
+  margin-bottom: 12px;
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-item {
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: var(--card-bg);
+  border: 1px solid var(--light-grey);
+  transition: border-color 0.3s, box-shadow 0.3s;
+  cursor: pointer;
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-item:hover {
+  border-color: var(--theme-color);
+  box-shadow: 0 2px 8px rgba(73, 177, 245, 0.15);
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-date {
+  font-size: 0.78rem;
+  color: var(--meta-color);
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-content {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--font-color);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-footer {
+  text-align: center;
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--light-grey);
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-footer a {
+  font-size: 0.82rem;
+  color: var(--theme-color);
+  text-decoration: none;
+  transition: opacity 0.3s;
+}
+
+.card-widget.card-shuoshuo .shuoshuo-sidebar-footer a:hover {
+  opacity: 0.7;
+}
